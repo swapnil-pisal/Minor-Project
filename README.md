@@ -9,4 +9,4 @@ This project is a sample weekly project, I have made it to avoid repetition and 
   * function
   * operation
 
-  Author,Swapnil pisal
+  Author,Swapnil Pisal
